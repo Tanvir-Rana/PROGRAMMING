@@ -1,4 +1,4 @@
-   <style>
+              <style>
 .navbar{
 background-color:gray;
 border-radius: 50px;
@@ -9,7 +9,7 @@ overflow: auto;
 .navbar li{
 float:left;
 list-style:none;
-margin: 7px 15px;
+margin: 15px 15px;
 }
 
 .navbar li a{
@@ -23,14 +23,14 @@ color:black
 .search{
 float: right;
 color:white;
-padding:9px 160px;
+padding:10px 50px;
 }
 
 .navbar input{
 border:2px solid black;
-border-radius:10px;
-padding:1px 100px;
-width:200px;
+border-radius:20px;
+padding:5px 20px;
+width:90px;
 }
 
       </style>
@@ -50,4 +50,3 @@ width:200px;
 </div>
 </ul>
                  </nav>    
-         </header> 
