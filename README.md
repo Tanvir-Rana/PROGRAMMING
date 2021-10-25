@@ -1,4 +1,4 @@
-     <style>
+   <style>
 .navbar{
 background-color:gray;
 border-radius: 50px;
@@ -50,3 +50,4 @@ width:200px;
 </div>
 </ul>
                  </nav>    
+         </header> 
