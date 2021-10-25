@@ -44,7 +44,7 @@ width:200px;
     <li><a href="#">ABOUT</a></li>
     <li><a href="#">SERVICE</a></li>
     <li><a href="#">CONTACT</a></li>
-<br>
+
 <div class="search">
 <input type="text" name="search" id="search" placeholder="Search This website">
 </div>
