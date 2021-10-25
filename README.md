@@ -13,7 +13,7 @@ margin: 15px 15px;
 }
 
 .navbar li a{
-padding: 3px 3px;
+padding: 3px 2px;
 text-decoration: none;
 color: white;
 }
